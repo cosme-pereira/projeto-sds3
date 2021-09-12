@@ -39,7 +39,7 @@ const DonutChart = () => {
          height="240"
       />
    );
-};
+}
 
 export default DonutChart;
 function then(arg0: () => void) {
